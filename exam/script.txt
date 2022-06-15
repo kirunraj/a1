@@ -1,0 +1,8 @@
+create databases test;
+
+use test;
+
+create table temp(
+    user varchar(10),
+    password varchar(10)
+);
